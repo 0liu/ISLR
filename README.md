@@ -17,5 +17,5 @@ The major Python libraries used for data processing, visulation, statistics mode
 <LI>seaborn
 </UL>
 
-Another book with emphasis on theoretical aspects is <A target="_blank" href='http://statweb.stanford.edu/~tibs/ElemStatLearn/'><I>Elements of Statistical Learning</I></A> by Hastie, T., Tibshirani, R., Friedman, J.
-<IMG src='https://images-na.ssl-images-amazon.com/images/I/41aQrQaPseL._SX331_BO1,204,203,200_.jpg', height=100%, width=100%> <P>
+Another book with emphasis on theoretical aspects is <A target="_blank" href='http://statweb.stanford.edu/~tibs/ElemStatLearn/'><I>Elements of Statistical Learning</I></A> by Hastie, T., Tibshirani, R., Friedman, J. <P>
+<IMG src='https://statweb.stanford.edu/~tibs/ElemStatLearn/CoverII_small.jpg', height=20%, width=20%> <P>
