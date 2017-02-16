@@ -6,6 +6,13 @@ My exercises with Python for examples, labs and problems in the book <A target="
 
 <A href='https://github.com/JesseLiu0/coursework/blob/master/ISLR/Chapter%203%20Linear%20Regression.ipynb'>Chapter 3 - Linear Regression</A><BR>
 
+Development environment:
+<UL>
+<LI>Anaconda 4.3 for OSX, with Python 3.6
+<LI>Jupyter Notebook 4.3.1
+<LI>Emacs 25.1 IPython Notebook
+</UL>
+
 The major Python libraries used for data processing, visulation, statistics modeling and computation and machine learning:
 <UL>
 <LI>scikit-learn
