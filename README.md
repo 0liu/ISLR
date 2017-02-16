@@ -1,6 +1,6 @@
 # ISLR
 
-My exercises with Python for examples, labs and problems in the book <A target="_blank" href='http://www-bcf.usc.edu/%7Egareth/ISL/index.html'><I>An Introduction to Statistical Learning with Applications in R</I></A> by James, Witten, Hastie, Tibshirani.<P>
+My Python coding for labs and applied exercises in the book <A target="_blank" href='http://www-bcf.usc.edu/%7Egareth/ISL/index.html'><I>An Introduction to Statistical Learning with Applications in R</I></A> by James, Witten, Hastie, Tibshirani.<P>
 
 <IMG src='http://www-bcf.usc.edu/%7Egareth/ISL/ISL%20Cover%202.jpg', height=25%, width=25%> <P>
 
@@ -13,7 +13,7 @@ Development environment:
 <LI>Emacs 25.1 IPython Notebook
 </UL>
 
-The major Python libraries used for data processing, visulation, statistics modeling and computation and machine learning:
+Python libraries used:
 <UL>
 <LI>scikit-learn
 <LI>statsmodels
