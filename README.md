@@ -4,17 +4,19 @@ My exercises with Python for examples, labs and problems in the book <A target="
 
 <IMG src='http://www-bcf.usc.edu/%7Egareth/ISL/ISL%20Cover%202.jpg', height=25%, width=25%> <P>
 
-<A href=''>Chapter 3 - Linear Regression</A><BR>
+<A href='https://github.com/JesseLiu0/coursework/blob/master/ISLR/Chapter%203%20Linear%20Regression.ipynb'>Chapter 3 - Linear Regression</A><BR>
 
 The major Python libraries used for data processing, visulation, statistics modeling and computation and machine learning:
 <UL>
-<LI>pandas
-<LI>statsmodels
 <LI>scikit-learn
-<LI>python-glmnet
+<LI>statsmodels
+<LI>pandas
 <LI>patsy
+<LI>numpy
+<LI>scipy
 <LI>matplotlib
 <LI>seaborn
+<LI>python-glmnet
 </UL>
 
 Reference: <A target="_blank" href='http://statweb.stanford.edu/~tibs/ElemStatLearn/'><I>Elements of Statistical Learning</I></A> by Hastie, T., Tibshirani, R., Friedman, J. <P>
