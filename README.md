@@ -4,7 +4,8 @@ My Python coding for labs and applied exercises in the book <A target="_blank" h
 
 <IMG src='http://www-bcf.usc.edu/%7Egareth/ISL/ISL%20Cover%202.jpg', height=25%, width=25%> <P>
 
-<A href='https://github.com/JesseLiu0/coursework/blob/master/ISLR/Chapter%203%20Linear%20Regression.ipynb'>Chapter 3 - Linear Regression</A><BR>
+<A href='http://nbviewer.jupyter.org/github/JesseLiu0/coursework/blob/master/ISLR/Chapter%203%20Linear%20Regression.ipynb'>Chapter 3 - Linear Regression</A><BR>
+<A href='http://nbviewer.jupyter.org/github/JesseLiu0/coursework/blob/master/ISLR/Chapter%204%20Classification.ipynb'>Chapter 4 - Classification</A><BR>
 
 Development environment:
 <UL>
