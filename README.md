@@ -7,7 +7,8 @@ My Python coding for labs and applied exercises in the book <a target="_blank" h
 <a href='http://nbviewer.jupyter.org/github/ningliuio/coursework/blob/master/ISLR/Chapter%203%20Linear%20Regression.ipynb'>Chapter 3 - Linear Regression</a><br>
 <a href='http://nbviewer.jupyter.org/github/ningliuio/coursework/blob/master/ISLR/Chapter%204%20Classification.ipynb'>Chapter 4 - Classification</a><br>
 <a href='http://nbviewer.jupyter.org/github/ningliuio/coursework/blob/master/ISLR/Chapter%205%20Resampling Methods.ipynb'>Chapter 5 - Resampling Methods</a><br>
-<a href='http://nbviewer.jupyter.org/github/ningliuio/coursework/blob/master/ISLR/Chapter%206%20Linear Model Selection and Regularization.ipynb'>Chapter 6 - Linear Model Selection and Regularization</a><br>
+<a href='http://nbviewer.jupyter.org/github/ningliuio/coursework/blob/master/ISLR/Chapter%206%20Linear%20Model%20Selection%20and%20Regularization.ipynb'>Chapter 6 - Linear Model Selection and Regularization</a><br>
+<a href='http://nbviewer.jupyter.org/github/ningliuio/coursework/blob/master/ISLR/Chapter%207%20Moving%20Beyond%20Linearity.ipynb'>Chapter 7 - Moving Beyond Linearity</a><br>
 
 Development environment:
 <ul>
