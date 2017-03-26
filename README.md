@@ -11,6 +11,7 @@ My Python coding for labs and applied exercises in the book <a target="_blank" h
 <a href='http://nbviewer.jupyter.org/github/ningliuio/coursework/blob/master/ISLR/Chapter%207%20Moving%20Beyond%20Linearity.ipynb'>Chapter 7 - Moving Beyond Linearity</a><br>
 <a href='http://nbviewer.jupyter.org/github/ningliuio/coursework/blob/master/ISLR/Chapter%208%20Tree-Based%20Methods.ipynb'>Chapter 8 - Tree-Based Methods</a><br>
 <a href='http://nbviewer.jupyter.org/github/ningliuio/coursework/blob/master/ISLR/Chapter%209%20Support%20Vector%20Machines.ipynb'>Chapter 9 - Support Vector Machines</a><br>
+<a href='http://nbviewer.jupyter.org/github/ningliuio/coursework/blob/master/ISLR/Chapter%2010%20Unsupervised%20Learning.ipynb'>Chapter 10 - Unsupervised Learning</a><br>
 
 Development environment:
 <ul>
