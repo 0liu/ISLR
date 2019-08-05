@@ -1,9 +1,9 @@
 
 # ISLR
 
-My Python coding for labs and applied exercises in the book <a target="_blank" href='http://www-bcf.usc.edu/%7Egareth/ISL/index.html'><I>An Introduction to Statistical Learning with Applications in R</I></A> by James, Witten, Hastie, Tibshirani.<p>
+My Python coding for labs and applied exercises in the book <a target="_blank" href='http://faculty.marshall.usc.edu/gareth-james/ISL/'><I>An Introduction to Statistical Learning with Applications in R</I></A> by James, Witten, Hastie, Tibshirani.<p>
 
-<img src='http://www-bcf.usc.edu/%7Egareth/ISL/ISL%20Cover%202.jpg' height=25% width=25%> <p>
+<img src='http://faculty.marshall.usc.edu/gareth-james/ISL/ISL%20Cover%202.jpg' height=25% width=25%> <p>
 
 <a href='http://nbviewer.jupyter.org/github/ningliu0/ISLR/blob/master/Chapter%203%20Linear%20Regression.ipynb'>Chapter 3 - Linear Regression</a><br>
 <a href='http://nbviewer.jupyter.org/github/ningliu0/ISLR/blob/master/Chapter%204%20Classification.ipynb'>Chapter 4 - Classification</a><br>
